@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Armen's RSS Feed</title>
+    <link>http://www.theonion.com</link>
+    <description>Test Feed</description>
+    <language>en-us</language>
+    <copyright>No one</copyright>
+
+    <item>
+      <title>Voya Financial Advertisement</title>
+      <pubDate>2018-11-26T00:00:00.0Z</pubDate>
+      <link>https://youtu.be/XFJRJPY7Z_A</link>
+      <guid isPermaLink="true">https://youtu.be/XFJRJPY7Z_A</guid>
+      <category>Advertisement</category>
+      <enclosure url="https://arissmiller.github.io/audio.mp3"
+        length="720000" type="audio/mp3" />
+    </item>
+
+    <item>
+      <title>Retirment goals: Why bother saving?</title>
+      <pubDate>2018-11-26T00:00:00.0Z</pubDate>
+      <link>https://www.voya.com/articles/retirement-goals-why-bother-saving</link>
+      <guid isPermaLink="true">https://www.voya.com/articles/retirement-goals-why-bother-saving</guid>
+      <category>Serious News</category>
+      <description><![CDATA[Here’s the truth: if you’re relatively young and you’re already saving for your retirement, 
+you’re an outlier. You’re also on your way to a more comfortable retirement. 
+But if you’re anything like the rest of us, you’re probably wondering why you should bother saving for 
+your retirement goals when there are so many other good things to spend the money on now. Won’t the future sort itself out? In a word, no.]]></description>
+    </item>
+   
+  </channel>
+</rss>
